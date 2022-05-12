@@ -14,6 +14,6 @@
 - [X] Should be able to list the projects
 - [X] Should be able to update repository
 - [X] Should not be able to update a non existing repository
-- [] Should not be able to update repository likes manually
+- [X] Should not be able to update repository likes manually
 - [X] Should be able to delete the repository
 - [X] Should not be able to delete a non existing repository
