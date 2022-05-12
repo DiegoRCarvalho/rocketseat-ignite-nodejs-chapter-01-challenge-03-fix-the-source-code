@@ -15,5 +15,5 @@
 - [X] Should be able to update repository
 - [X] Should not be able to update a non existing repository
 - [] Should not be able to update repository likes manually
-- [] Should be able to delete the repository
+- [X] Should be able to delete the repository
 - [] Should not be able to delete a non existing repository
