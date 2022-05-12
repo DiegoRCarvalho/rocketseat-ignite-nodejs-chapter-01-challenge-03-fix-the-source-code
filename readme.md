@@ -12,7 +12,7 @@
 ### Projects
 - [X] Should be able to create a new repository
 - [X] Should be able to list the projects
-- [] Should be able to update repository
+- [X] Should be able to update repository
 - [] Should not be able to update a non existing repository
 - [] Should not be able to update repository likes manually
 - [] Should be able to delete the repository
