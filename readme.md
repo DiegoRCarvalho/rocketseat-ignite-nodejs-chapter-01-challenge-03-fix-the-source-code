@@ -5,7 +5,7 @@
 
 ### Likes
 
-- [] Should be able to give a like to the repository
+- [X] Should be able to give a like to the repository
 - [X] Should not be able to give a like to a non existing repository
 
 
