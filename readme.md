@@ -10,7 +10,7 @@
 
 
 ### Projects
-- [] Should be able to create a new repository
+- [X] Should be able to create a new repository
 - [] Should be able to list the projects
 - [] Should be able to update repository
 - [] Should not be able to update a non existing repository
